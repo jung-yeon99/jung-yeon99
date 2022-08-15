@@ -2,6 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffdddd&height=300&section=header&text=JungYeon%20Kim&fontSize=90)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-yeon99&count_bg=%23FFE5DD&title_bg=%23FFDDDD&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center"> 😃About ME😃 </h3>
+TUkorea, Gyeonggi-do, Korea (Computer Science & Engineering)
+contact : jungyeon9130@naver.com
+Tech blog : 
+
+
 <h3 align="center"> 🛠Tech Stack🛠 </h3>
 
 ### ✨Platforms & Languages✨
