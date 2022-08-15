@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-yeon99&count_bg=%23FFE5DD&title_bg=%23FFDDDD&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center"> 😃About ME😃 </h3>
-<h4><li>TUkorea, Gyeonggi-do, Korea (Computer Science & Engineering)</li></h4>
-<h4><li>contact : jungyeon9130@naver.com</li></h4>
+<h4><li>Univ.(Major): TUkorea, Gyeonggi-do, Korea (Computer Science & Engineering)</li></h4>
+<h4><li>Contact : jungyeon9130@naver.com</li></h4>
 <h4><li>Tech blog : https://mangjung1130.tistory.com/</li></h4>
 
 
