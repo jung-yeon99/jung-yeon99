@@ -4,8 +4,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center"> 😃About ME😃 </h3>
 <h4><li>TUkorea, Gyeonggi-do, Korea (Computer Science & Engineering)</li></h4>
-<h4<li>contact : jungyeon9130@naver.com</li></h4>
-<h4<li>Tech blog : https://mangjung1130.tistory.com/</li></h4>
+<h4><li>contact : jungyeon9130@naver.com</li></h4>
+<h4><li>Tech blog : https://mangjung1130.tistory.com/</li></h4>
 
 
 <h3 align="center"> 🛠Tech Stack🛠 </h3>
