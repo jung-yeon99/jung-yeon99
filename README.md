@@ -1,5 +1,3 @@
-### { Hello I'm Jungyeon👋 }
-### I'm studying FrontEnd ❤
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20JungYeon%27s%20Github%F0%9F%91%8B&fontSize=45)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-yeon99&count_bg=%23FFE5DD&title_bg=%23FFDDDD&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
