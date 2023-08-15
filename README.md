@@ -2,7 +2,7 @@
 
 ## Hi, I'm KimJungYeon
 
-- 🔭 I’m currently developing a frontend
+- 🔭 I’m interested developing a frontend
 - 🌱 I’m currently learning advanced concepts of React & Node.js
 - 🥅 2023 Goals: Start developing services
 - ⚡ Fun fact: I love to listen songs & 3D(Three.js) exploration excites me
