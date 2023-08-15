@@ -1,47 +1,41 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20JungYeon%27s%20Github%F0%9F%91%8B&fontSize=45)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-yeon99&count_bg=%23FFE5DD&title_bg=%23FFDDDD&icon=&icon_color=%23E7E7E7&title=Total&edge_flat=false)](https://hits.seeyoufarm.com)<br>
+
+## Hi, I'm KimJungYeon
+
+- 🔭 I’m currently developing a frontend
+- 🌱 I’m currently learning advanced concepts of React & Node.js
+- 🥅 2023 Goals: Start developing services
+- ⚡ Fun fact: I love to listen songs & 3D(Three.js) exploration excites me
+
+**Connect with me:**
+
+[<img align="left" alt="https://mangjung1130.tistory.com" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
+[<img align="left" alt="KimJungYeon | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+<br />
+<br />
+
+**Languages and Tools:**
+
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
+<code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<br />
+<br />
+
+
+---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [컴포넌트와 리액트사이클 메서드](https://mangjung1130.tistory.com/35)
+- [배포과정 CORS 에러 해결하기](https://mangjung1130.tistory.com/29)
+- [SSR 과 CSR 의 차이?](https://mangjung1130.tistory.com/21)
+- [DOM 은 무엇일까?](https://mangjung1130.tistory.com/22)
+<!-- BLOG-POST-LIST:END -->
+
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<h3 align="center"> 😃About ME😃 </h3>
-<h4><li>Univ. (Major): TU Korea, Gyeonggi-do, Korea (Computer Science & Engineering)</li></h4>
-<h4><li>Contact : jungyeon9130@naver.com</li></h4>
-<h4><li>Tech blog : https://mangjung1130.tistory.com/</li></h4>
 
-
-<h3 align="center"> 🛠Tech Stack🛠 </h3>
-
-### ✨Platforms & Languages✨
-❤<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-
-### ✨Tools✨
-💛<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-
-### 📫Contacts📫
-💙<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Blog&logoColor=white">
-<img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-
-
-
-<!--
-**jung-yeon99/jung-yeon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--
--->
+[website]: https://mangjung1130.tistory.com/
+[linkedin]: https://www.linkedin.com/in/kimjungyeon/
