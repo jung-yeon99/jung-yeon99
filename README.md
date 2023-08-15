@@ -11,6 +11,7 @@
 
 [<img align="left" alt="https://mangjung1130.tistory.com" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
 [<img align="left" alt="KimJungYeon | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
+<a href='mailto:jungyeon9130@naver.com'><img align="left" alt="KimJungYeon | Gmail" width="22px" src="https://img.icons8.com/color/22/000000/gmail.png" /></a>
 <br />
 <br />
 
