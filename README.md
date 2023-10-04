@@ -39,4 +39,4 @@
 [![Jungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jung-yeon99&theme=theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://mangjung1130.tistory.com/
-[linkedin]: https://www.linkedin.com/in/kimjungyeon/
+[linkedin]: https://www.linkedin.com/in/kimjungyeon/ 
