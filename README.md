@@ -2,7 +2,7 @@
 
 ## Hi, I'm KimJungYeon
 
-- 🔭 I’m interested developing a frontend 
+- 🔭 I’m interested developing a frontend
 - 🌱 I’m currently learning advanced concepts of React & Node.js
 - 🥅 2023 Goals: Start developing services
 - ⚡ Fun fact: I love to listen songs & 3D(Three.js) exploration excites me
@@ -33,6 +33,7 @@
 - [배포과정 CORS 에러 해결하기](https://mangjung1130.tistory.com/29)
 - [SSR 과 CSR 의 차이?](https://mangjung1130.tistory.com/21)
 - [DOM 은 무엇일까?](https://mangjung1130.tistory.com/22)
+- [무한스크롤 구현기](https://mangjung1130.tistory.com/41)
 <!-- BLOG-POST-LIST:END -->
 
 ---
